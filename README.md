@@ -1,5 +1,5 @@
 # This is the title of my story.
-> Access the markdown cheatsheel with; curl cheat.sh/mardown
+> Access the markdown cheatsheel with; curl cheat.sh/markdown
 
 <details>
     <summary>Collapsed summary</summary>
@@ -11,10 +11,9 @@ Actually I might just copy paste the whole thing.
 this is training anyway. 
 
 # headers
-# (without double qutation marks("))
-"# h1 header"
-"###### h6 header"
-
+# h1 header
+###### h6 header
+ 
 # blockquotes
 > first level and paragraph
 >> second level and first paragraph
@@ -41,7 +40,7 @@ Sub-bullets can be done with 2+ spaces or 1 tab
   + sub with plus
 * Blue
 
-## ordered
+## ordered (smth's wrong here)
 1. First
   1. First sub-item <-- this is the best supported format
 2. Second
@@ -95,7 +94,7 @@ case-insensitive string with spaces replaced by dashes:
 [Visible Link Text](#my-first-heading "Hover-text link title")
 
 # image
-![Alt Text](/path/to/file.png)
+![Alt Text](/Users/aude/Documents/becode/md_chsheet.png)
 
 # formatting
 Italic:
