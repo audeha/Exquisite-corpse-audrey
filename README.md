@@ -3,7 +3,6 @@
 <p>How are you?</p>
 # We are good to go
 
-## I AM, THEREFORE I AM... FINE
 
 # This is the title of my story.
 > Access the markdown cheatsheel with; curl cheat.sh/markdown
