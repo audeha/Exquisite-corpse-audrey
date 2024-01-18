@@ -1,10 +1,8 @@
 <p>Hello!</p>
 <p>This is me, Oleh</p>
 <p>How are you?</p>
+# We are good to go
 
-<img 
-src="https://scontent-bru2-1.xx.fbcdn.net/v/t39.30808-6/326317496_588890172576446_7965595345705202560_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=E04g-pPCsQQAX9jdOl9&_nc_ht=scontent-bru2-1.xx&oh=00_AfCvWDN2ENVwuOq_YUeYSqQnMj7LCgY_3ylOSy0sjoeanQ&oe=65AD9001" 
-alt="BeCode logo" style="float:left;margin-right:10px;"/>
 
 # This is the title of my story.
 > Access the markdown cheatsheel with; curl cheat.sh/markdown
